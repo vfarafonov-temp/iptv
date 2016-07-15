@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Brodilo HD"  group-title="Group N/A",Brodilo HD
+http://brodilo.tv/channel.php
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Group N/A",Cartoon Network
+http://msk3.peers.tv/streaming/cartoonnetwork/16/tvrec/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery"  group-title="Group N/A",Discovery
+http://vs8.cdn.ott.otautv.kz:80/dtv/id50_KTR_SG--DiscoveryChannel/03/plst.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LifeNews HD"  group-title="Group N/A",LifeNews HD
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nano TV"  group-title="Group N/A",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo"  group-title="Group N/A",Nat Geo
+http://vs8.cdn.ott.otautv.kz:80/dtv/id106_KTR_SG--NationalGeographic/03/plst.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Group N/A",Nat Geo Wild
+http://vs8.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Group N/A",Nickelodeon
+http://msk3.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV1000"  group-title="Group N/A",TV1000
+http://vs8.cdn.ott.otautv.kz:80/dtv/id48_KTR_SG--TV1000/03/plst.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV1000 Action"  group-title="Group N/A",TV1000 Action
+http://vs8.cdn.ott.otautv.kz:80/dtv/id49_KTR_SG--TV1000Action/03/plst.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матч"  group-title="Group N/A",Матч
+http://89.22.128.132:10026
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Первый"  group-title="Group N/A",Первый
+http://msk3.peers.tv/streaming/1kanal/126/tvrecw/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Россия 1"  group-title="Group N/A",Россия 1
+http://bal.bonus-tv.ru/btv/russia1/type/user/devname/LG-SmartTV/devid/LG-1428492206/eol/20200101T000000/hash/f76ed72038a9af7f7284e32cb467460ccbdce956/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Россия HD"  group-title="Group N/A",Россия HD
+http://testlivestream.rfn.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
+
